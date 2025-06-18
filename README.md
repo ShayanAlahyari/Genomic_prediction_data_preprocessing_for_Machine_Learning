@@ -13,7 +13,7 @@ I am a Master of Science student at Western University, supervised by Professor 
 
 ## 🚀 Project Overview
 
-This project was part of my summer research at Western University focusing on processing large genomic datasets. The data used in this project is private and cannot be shared, but the scripts demonstrate the workflow and processing steps involved.
+This project was part of my research project at NSERC, focusing on processing large genomic datasets. The data used in this project is private and cannot be shared, but the scripts demonstrate the workflow and processing steps involved.
 
 ### Key Steps:
 1. **BAM Indexing and Filtering**: Index and filter BAM files for quality control.
